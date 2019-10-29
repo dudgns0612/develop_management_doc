@@ -9,3 +9,6 @@
 - Webpack*
 - ES6*
 - Frontend TDD
+    - Jest
+    - Enzyme
+    - ex) https://www.slideshare.net/jeokrang/react-tdd-76066004 
