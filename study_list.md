@@ -11,7 +11,7 @@
 - Frontend TDD
     - Jest
     - Enzyme
-    - ex) https://www.slideshare.net/jeokrang/react-tdd-76066004
+    - 참고) https://www.slideshare.net/jeokrang/react-tdd-76066004
     - 테스트 조건 
         - 실행속도
         - 종속적인 테스트 배제
