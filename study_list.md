@@ -11,4 +11,11 @@
 - Frontend TDD
     - Jest
     - Enzyme
-    - ex) https://www.slideshare.net/jeokrang/react-tdd-76066004 
+    - ex) https://www.slideshare.net/jeokrang/react-tdd-76066004
+    - 테스트 조건 
+        - 실행속도
+        - 종속적인 테스트 배제
+        - 버그 검출
+        - 안정적 결과 (환경에 따른 변화 x)
+        - 테스트 의도 명시
+        - 참고) https://meetup.toast.com/posts/174
