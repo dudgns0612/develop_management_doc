@@ -1,4 +1,4 @@
-# a study list
+# 공부 목록
 
 - 아키텍처
 - React.js
