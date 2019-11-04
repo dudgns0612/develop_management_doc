@@ -5,7 +5,7 @@
 - Gulp
 - Grunt
 - Browserify
-- Babel*
+- ~~Babel*~~
 - Webpack*
 - ES6*
 - Frontend TDD
