@@ -19,3 +19,5 @@
         - 안정적 결과 (환경에 따른 변화 x)
         - 테스트 의도 명시
         - 참고) https://meetup.toast.com/posts/174
+- PWA (Progressive Web Apps)
+- AMP (Accelarated Mobile Page)
