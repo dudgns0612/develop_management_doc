@@ -9,3 +9,9 @@
 - 커플 간 sns 프로젝트
 - 기술스택 : springboot, react.js, gradle
 - 개발기간 : 2019-10-05 - ing..
+
+# w-pay
+- QR코드를 통한 축의금 간편 송금 서비스
+- 기술스택 : springboot. vue.js, maven, webpack
+- 개발기간 : 2019-11-16 - 2019-11-31
+- kisa 해커톤 참가
