@@ -15,3 +15,4 @@
 - 기술스택 : springboot. vue.js, maven, webpack
 - 개발기간 : 2019-11-16 - 2019-11-31
 - kisa 해커톤 참가
+- 추후 상용 개발조건 논의중
