@@ -1,5 +1,8 @@
 # hst_project_summary_history
 
+## Team Hst project_doc git repository URL   
+https://github.com/Team-HST/hst-project-management.git
+
 # shrp
 - 교차로 데이터 시각화 프로젝트
 - 기술스택 : springboot, vue.js, maven
