@@ -6,7 +6,7 @@
     - 참고) https://ultrakain.gitbooks.io/jpa/
 ### 3. DO it! Vue.js 입문 - 이지스퍼블리싱 (구매)
 - 저자 : 정기효
-### 4. DDD Start!
+### 4. DDD Start! - 지앤선
 - 저자 : 최범균
 - 진행 : HST 스터디 진행 2019/12 3주차 ~ 2020/03
 #### *구매서적은 공부하면서 블로그 정리 예정
