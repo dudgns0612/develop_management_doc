@@ -1,4 +1,6 @@
 # 개발 서적 목록
+### gitbook https://dudgns0612.gitbook.io/book-study/
+
 ### 1. 리액트를 다루는 기술 - 길벗 (구매)
 - 저자 : 김민준
 ### 2. 자바 ORM 표준 JPA 프로그래밍 - 에이콘
