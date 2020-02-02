@@ -21,6 +21,11 @@ https://github.com/Team-HST/hst-project-management.git
 - kisa 해커톤 참가 코스콤 우수상
 - 추후 상용화 개발
 
+## RE:Minder
+- 
+- 기술스택 : springboot, vue.js
+- 개발기간 : 2020-01-01 - ing..
+
 ## My Project
 
 ### up_note
