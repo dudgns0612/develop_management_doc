@@ -31,4 +31,4 @@ https://github.com/Team-HST/hst-project-management.git
 ### up_note
 - todoList 목록을 관리하는 웹 서비스
 - 기술스택 : react.js, firebase
-- 개발기간 : 진행중
+- 개발기간 : 진행 보류중 (react 학습 후 진행)
