@@ -22,7 +22,6 @@ https://github.com/Team-HST/hst-project-management.git
 - 추후 상용화 개발
 
 ## RE:Minder
-- 
 - 기술스택 : springboot, vue.js
 - 개발기간 : 2020-01-01 - ing..
 
@@ -30,5 +29,5 @@ https://github.com/Team-HST/hst-project-management.git
 
 ### up_note
 - todoList 목록을 관리하는 웹 서비스
-- 기술스택 : react.js, firebase
-- 개발기간 : 진행 보류중 (react 학습 후 진행)
+- 기술스택 : react.js, express
+- 개발기간 : 진행 예정
